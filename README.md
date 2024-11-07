@@ -172,14 +172,14 @@
 </div>
 
 <!-- Snake Animation with enhanced container -->
-/*<div align="center">
+<!--<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Amair018/Amair018/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Amair018/Amair018/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/Amair018/Amair018/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-*/
+-->
 <!-- Profile Views Counter with style -->
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@Amair018?theme=rule34" />
