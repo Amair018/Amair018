@@ -30,41 +30,41 @@
     <h2>🛠️ My Tech Arsenal</h2>
 </div>
 <div align="center">
-    <table>
-        <!-- Frontend Skills -->
-        <tr>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br><b>React</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br><b>Angular</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><b>Vue.js</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br><b>JavaScript</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br><b>TypeScript</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><b>HTML5</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br><b>CSS</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><b>Bootstrap</b></td>
-        </tr>
-        <!-- Backend & Databases -->
-        <tr>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><b>PHP</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><b>Laravel</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><b>Node.js</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br><b>Spring Boot</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br><b>MySQL</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><b>MongoDB</b></td>
-            <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><b>Java</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br><b>Python</b></td>
-        </tr>
-        <!-- Development Tools -->
-        <tr>
-            <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br><b>Git</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br><b>GitHub</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><b>VS Code</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><b>Docker</b></td>
-            <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br><b>AWS</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><b>Postman</b></td>
-            <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" /><br><b>Android</b></td>
-        </tr>
-    </table>
+  <table>
+      <!-- Frontend Skills -->
+      <tr>
+<!--           <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br><b>React</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br><b>Angular</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><b>Vue.js</b></td> -->
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br><b>JavaScript</b></td>
+<!--           <td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br><b>TypeScript</b></td> -->
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><b>HTML5</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br><b>CSS</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><b>Bootstrap</b></td>
+      </tr>
+      <!-- Backend & Databases -->
+      <tr>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><b>PHP</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><b>Laravel</b></td>
+<!--           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><b>Node.js</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br><b>Spring Boot</b></td> -->
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br><b>MySQL</b></td>
+<!--           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><b>MongoDB</b></td> -->
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><b>Java</b></td>
+       <!--    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br><b>Python</b></td> -->
+      </tr>
+      <!-- Development Tools -->
+      <tr>
+          <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br><b>Git</b></td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br><b>GitHub</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><b>VS Code</b></td>
+<!--           <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><b>Docker</b></td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br><b>AWS</b></td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b></td> -->
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><b>Postman</b></td>
+       <!--    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" /><br><b>Android</b></td> -->
+      </tr>
+  </table>
 </div>
 
 <!-- GitHub Statistics Section with Enhanced Styling -->
