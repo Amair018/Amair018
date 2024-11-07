@@ -81,16 +81,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Amair018&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
-<!-- Projects Section -->
+<!-- Projects Section 
 <div align="center">
     <h2>🚀 Featured Projects</h2>
     <p>Explora algunos de mis proyectos destacados en GitHub.</p>
+    
     <a href="https://github.com/Amair018/project-name">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amair018&repo=project-name&theme=radical" alt="Project Name" />
     </a>
-    <!-- Repite el bloque para cada proyecto -->
+    
 </div>
-
+-->
 <!-- Profile View Counter -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://moe-counter.glitch.me/get/@Amair018?theme=rule34" alt="Profile Views" />
