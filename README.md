@@ -1,4 +1,4 @@
-<!-- Introduction with animated text -->
+<!-- Centered Intro with Gradient Text and Typing Animation -->
 <div align="center">
     <h1 style="font-size: 3em; background: linear-gradient(to right, #7E3ACE, #FF6F61); -webkit-background-clip: text; color: transparent;">
         Amair 018
@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=450&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Profile Badges Section with modern styling -->
+<!-- Profile Badges with Modern Styling -->
 <div align="center" style="padding: 20px;">
     <a href="https://github.com/Amair018?tab=repositories&sort=stargazers">
         <img alt="Total stars" title="Total stars on GitHub"
@@ -22,10 +22,10 @@
     </a>
 </div>
 
-<!-- Divider -->
+<!-- Decorative Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
 
-<!-- Tech Skills Section -->
+<!-- Skills Section -->
 <div align="center">
     <h2>🛠️ My Tech Arsenal</h2>
 </div>
@@ -67,34 +67,25 @@
     </table>
 </div>
 
-<!-- GitHub Statistics with enhanced styling -->
+<!-- GitHub Statistics Section with Enhanced Styling -->
 <div align="center">
     <h2>📊 GitHub Statistics</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amair018&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=Amair018&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=Amair018&theme=radical&hide_border=true" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Amair018&theme=radical&hide_border=true" height="150" alt="streak graph" />
+
 </div>
 
-<!-- Trophies Section -->
+<!-- Trophies & Achievements Section -->
 <div align="center">
     <h2>🏆 Trophies & Achievements</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Amair018&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
-<!-- Projects Section 
-<div align="center">
-    <h2>🚀 Featured Projects</h2>
-    <p>Explora algunos de mis proyectos destacados en GitHub.</p>
-    
-    <a href="https://github.com/Amair018/project-name">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amair018&repo=project-name&theme=radical" alt="Project Name" />
-    </a>
-    
-</div>
--->
 <!-- Profile View Counter -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://moe-counter.glitch.me/get/@Amair018?theme=rule34" alt="Profile Views" />
 </div>
-<!-- Divider -->
+
+<!-- Final Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
