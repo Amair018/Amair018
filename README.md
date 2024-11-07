@@ -66,8 +66,7 @@
         </tr>
     </table>
 </div>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
+
 <!-- GitHub Statistics with enhanced styling -->
 <div align="center">
     <h2>📊 GitHub Statistics</h2>
@@ -75,15 +74,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Amair018&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=Amair018&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
+
 <!-- Trophies Section -->
 <div align="center">
     <h2>🏆 Trophies & Achievements</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Amair018&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
+
 <!-- Projects Section -->
 <div align="center">
     <h2>🚀 Featured Projects</h2>
@@ -93,8 +90,7 @@
     </a>
     <!-- Repite el bloque para cada proyecto -->
 </div>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;" />
+
 <!-- Profile View Counter -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://moe-counter.glitch.me/get/@Amair018?theme=rule34" alt="Profile Views" />
