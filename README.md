@@ -1,8 +1,8 @@
 <!-- Centered Intro with Gradient Text and Typing Animation -->
 <div align="center">
-    <h1 style="font-size: 3em; background: linear-gradient(to right, #7E3ACE, #FF6F61); -webkit-background-clip: text; color: transparent;">
-        Amair 018
-    </h1>
+      <h1 style="font-size: 3em; background: linear-gradient(to right, #7E3ACE, #FF6F61); -webkit-background-clip: text; color: transparent;">
+          Amair 018
+      </h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=450&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -72,14 +72,24 @@
     <h2>📊 GitHub Statistics</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amair018&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=Amair018&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Amair018&theme=radical&hide_border=true" height="150" alt="streak graph" />
-
+    
 </div>
 
 <!-- Trophies & Achievements Section -->
 <div align="center">
     <h2>🏆 Trophies & Achievements</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Amair018&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
+</div>
+<div align="center">
+  <h2>🌟 Contribution Insights</h2>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amair018&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amair018&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amair018&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amair018&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amair018&theme=radical" height="180em" />
 </div>
 
 <!-- Profile View Counter -->
