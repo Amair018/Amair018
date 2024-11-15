@@ -88,7 +88,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amair018&theme=radical" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amair018&theme=radical" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amair018&theme=radical" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amair018&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amair018&theme=radical&utcOffset=-5" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amair018&theme=radical" height="180em" />
 </div>
 
